@@ -99,11 +99,11 @@ p {
     color: #ffffff;
 }
 
-.benefit-1 {
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* consolidated previous 3 selectors into "benefit-1" */
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
